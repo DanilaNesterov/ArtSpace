@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="leonardo_da_vinci">Леонардо да Винчи</string>
+    <string name="pablo_picasso">Пабло Пикассо</string>
+    <string name="vincent_van_gogh">Винсент Ван Гог</string>
+    <string name="michelangelo_buonarroti">Микеланджело Буонарроти</string>
+    <string name="edvard_munch">Эдвард Мунк</string>
+    <string name="louvre_museum">Лувр, Париж</string>
+    <string name="museum_reina_sofia">Музей Королевы Софии, Мадрид, Испания</string>
+    <string name="museum_of_modern_art">Музей современного искусства, Нью-Йорк</string>
+    <string name="sistine_chapels_ceiling">Потолок Сикстинской капеллы, Ватикан</string>
+    <string name="national_gallery">Национальная галерея, Осло, Норвегия</string>
+    <string name="mono_lisa">Моно Лиза</string>
+    <string name="guernica">Герника</string>
+    <string name="the_starry_night">Звездная ночь</string>
+    <string name="the_creation_of_adam">Сотворение Адама</string>
+    <string name="the_scream">Крик</string>
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+</resources>
